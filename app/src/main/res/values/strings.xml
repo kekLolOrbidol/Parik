@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Parimatch - Arcade Champion</string>
+    <string name="violet_hawk">Violet Hawk</string>
+    <string name="quests">Quests</string>
+    <string name="paused">Paused</string>
+    <string name="resume">Resume</string>
+    <string name="quit">Quit</string>
+    <string name="embark">Embark</string>
+    <string name="back">Back</string>
+    <string name="hero_of_mythhaven">Hero of Mythhaven</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="levelTitle">Level: </string>
+    <string name="goldTitle">Gold: </string>
+    <string name="restart">Restart</string>
+    <string name="you_lose">You Lose</string>
+    <string name="you_win">You Win!!</string>
+    <string name="quest_3">Quest 3</string>
+    <string name="quest_2">Quest 2</string>
+    <string name="quest_1">Quest 1</string>
+    <string name="change_character">Change Character</string>
+    <string name="buy_character">Buy Character</string>
+    <string name="_2_000_gold">2,000 gold</string>
+</resources>

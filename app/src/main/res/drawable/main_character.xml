@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <bitmap android:src="@drawable/human_female"></bitmap>
+    </item>
+    <item>
+        <bitmap android:src="@drawable/pants_black"></bitmap>
+    </item>
+    <item>
+        <bitmap android:src="@drawable/middle_brown"/>
+    </item>
+    <item>
+        <bitmap android:src="@drawable/boromir"></bitmap>
+    </item>
+    <item>
+        <bitmap android:src="@drawable/short_black_hair"></bitmap>
+    </item>
+    <item>
+        <bitmap android:src="@drawable/long_sword_slant"></bitmap>
+    </item>
+
+</layer-list>

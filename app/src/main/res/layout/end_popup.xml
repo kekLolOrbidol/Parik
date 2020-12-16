@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="300dp"
+              android:orientation="vertical"
+              android:layout_gravity="center"
+              android:padding="5dp"
+              android:background="@drawable/popup_background"
+              android:layout_height="250dp">
+    <TextView android:layout_width="match_parent"
+              android:layout_height="0dp"
+              android:layout_weight="1"
+              android:textColor="@color/whiteText"
+              android:gravity="center"
+              android:layout_margin="10dp"
+              android:id="@+id/endTitle"
+              android:textStyle="bold"
+              android:textSize="20sp"
+              android:text="@string/you_win"/>
+    <Button android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="@string/restart"
+            android:id="@+id/restartButtonEnd"
+            android:textColor="@color/whiteText"
+            android:background="@drawable/trim_background"
+            android:layout_margin="20dp"/>
+    <Button android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="@string/quit"
+            android:id="@+id/quitButtonEnd"
+            android:layout_margin="20dp"
+            android:textColor="@color/whiteText"
+            android:background="@drawable/trim_background"/>
+
+</LinearLayout>
